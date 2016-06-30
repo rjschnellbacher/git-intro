@@ -1,11 +1,12 @@
 body {
 	background-color: #f2f2f2;
+   margin-left: 10px;
+   padding-bottom: 30px;
 }
-
 .password{}
 .jumbotron{
    background: url() no-repeat center top;
-   background-image: url("C:/Users/Ronald/dotnet-intro/images/IMG_0143.JPG");
+   background-image: url("C:/Users/Ronald/dotnet-intro/images/IMG_0147.JPG");
    background-position-x: center;
    background-position-y: center;
    background-size: cover;
@@ -15,6 +16,8 @@ body {
    background-clip: initial;
    background-color: initial;
    padding-top: 5px;
+   padding-left: 10px;
+   margin-left: 10px;
    background-attachment: relative;
    background-position: center center;
    min-height: 700px;
@@ -29,3 +32,6 @@ body {
    background-size: cover;
    color: #DFDFDF ;
    }
+.img2{
+   image: url("C:/Users/Ronald/dotnet-intro/images/Molly.JPG");
+}
